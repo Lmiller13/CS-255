@@ -1,1 +1,3 @@
 # CS-255
+
+In this project we created planning documents and digrams for a driving LMS called DriverPass which is a platform for students to study and prepare for driving exams. During this project I especially enjoyed creating the UML diagrams because it seems like a good pratical skill for planning projects if my career ever takes me that route. If I could revise one thing it would probably be my use case diagram, because I think I could have added more information regarding the relationships between cases. Being someone who has used LMS systems for most of my educational life, I understood the user's point of view and what features a good LMS would include.
